@@ -1,5 +1,3 @@
-require 'set'
-
 input = File.read('05.input').split("\n").map(&:strip)
 
 # problem 1
